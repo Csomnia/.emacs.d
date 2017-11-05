@@ -7,7 +7,7 @@
 (global-set-key (kbd "M-g w") 'avy-goto-word-1)
 
 ;; neotree
-(global-set-key (kbd "f8") 'neotree-toggle)
+(global-set-key (kbd "<f8>") 'neotree-toggle)
 
 
 (provide 'setup-keybinding)

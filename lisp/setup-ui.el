@@ -4,16 +4,16 @@
 (menu-bar-mode -1)
 
 ;; disable startup frame.
-(setq inhibit-startup-message 't)
+(setq inhibit-startup-message t)
 
 ;; nyan-mode open
-(nyan-mode 't)
+(nyan-mode t)
 
 ;; display file columber
-(setq column-number-mode 't)
+(setq column-number-mode t)
 
 ;; display file size
-(size-indication-mode 't)
+(size-indication-mode t)
 
 ;; fast choise
 (fset 'yes-or-no-p 'y-or-n-p)
