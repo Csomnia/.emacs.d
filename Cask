@@ -7,6 +7,7 @@
 (depends-on "bind-key")
 (depends-on "cask")
 (depends-on "company")
+(depends-on "copy-file-on-save")
 (depends-on "dash")
 (depends-on "diminish")
 (depends-on "drag-stuff")

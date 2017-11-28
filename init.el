@@ -39,6 +39,7 @@
 
 (require 'setup-keybinding)
 (require 'setup-ui)
+(require 'setup-setting)
 (require 'setup-helm)
 (require 'setup-which-key)
 
